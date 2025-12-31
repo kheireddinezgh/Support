@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" packagePrefix="Arcanedev\Support\" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" packagePrefix="Arcanedev\Support\Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/tests/fixtures/stubs/src" isTestSource="false" packagePrefix="Arcanedev\Package\" />
+      <sourceFolder url="file://$MODULE_DIR$/tests/fixtures/stubs/tests" isTestSource="true" packagePrefix="Arcanedev\Package\Tests\" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
